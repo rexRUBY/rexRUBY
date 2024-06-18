@@ -3,7 +3,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexRUBY&theme=solarized)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rexRUBY&theme=solarized)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rexRUBY&theme=solarized)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rexRUBY&theme=solarized)
