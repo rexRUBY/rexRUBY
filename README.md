@@ -8,3 +8,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rexRUBY&theme=light&show_icons=true" style="width: 52%; height: auto;" />
   </a>
 </div>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexRUBY&theme=nord_dark)
