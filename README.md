@@ -5,6 +5,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexRUBY&layout=compact&theme=light" style="width: 40%; height: auto;" />
   </a>
   <a href="s" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rexRUBY&theme=light&show_icons=true" style="width: 55%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rexRUBY&theme=light&show_icons=true" style="width: 52%; height: auto;" />
   </a>
 </div>
