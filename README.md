@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=반갑습니다!😊%20&fontSize=90)
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="s" style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexRUBY&layout=compact&theme=light" style="width: 40%; height: auto;" />
-  </a>
-  <a href="s" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rexRUBY&theme=light&show_icons=true" style="width: 52%; height: auto;" />
-  </a>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexRUBY&theme=solarized)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rexRUBY&theme=solarized)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexRUBY&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rexRUBY&theme=solarized)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rexRUBY&theme=solarized)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rexRUBY&theme=solarized&utcOffset=8)
