@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World🫶%20&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World20🫶&fontSize=80)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexRUBY&theme=solarized)
 
