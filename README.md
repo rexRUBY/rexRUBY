@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=헬로%20월드%20🥳&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=톰%20캣%20🐈😺&fontSize=90)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexRUBY&theme=solarized)
 
