@@ -3,10 +3,19 @@
 ### My Skills
 
 #### Languages
-[![C](https://skillicons.dev/icons?i=c&theme=light)](https://skillicons.dev) [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev) [![C#](https://skillicons.dev/icons?i=csharp&theme=light)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c&theme=light)](https://skillicons.dev) 
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) 
+[![Python](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev) 
+[![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://skillicons.dev) 
+[![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
 
 #### Backend
-[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev) [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev) [![Spring Boot](https://skillicons.dev/icons?i=springboot&theme=light)](https://skillicons.dev) [![JPA](https://skillicons.dev/icons?i=jpa&theme=light)](https://skillicons.dev) [![MyBatis](https://skillicons.dev/icons?i=mybatis&theme=light)](https://skillicons.dev) [![.NET](https://skillicons.dev/icons?i=dotnet&theme=light)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
+[![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
+[![Spring Boot](https://skillicons.dev/icons?i=springboot&theme=light)](https://skillicons.dev)
+[![JPA](https://skillicons.dev/icons?i=jpa&theme=light)](https://skillicons.dev)
+[![MyBatis](https://skillicons.dev/icons?i=mybatis&theme=light)](https://skillicons.dev)
+[![.NET](https://skillicons.dev/icons?i=dotnet&theme=light)](https://skillicons.dev)
 
 #### Database
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev) [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) [![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch&theme=light)](https://skillicons.dev) [![Redis](https://skillicons.dev/icons?i=redis&theme=light)](https://skillicons.dev)
