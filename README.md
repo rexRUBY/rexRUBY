@@ -8,6 +8,7 @@
 [![Python](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev) 
 [![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://skillicons.dev) 
 [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
+[![Dart](https://skillicons.dev/icons?i=dart&theme=light)](https://skillicons.dev) 
 
 #### Backend
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
