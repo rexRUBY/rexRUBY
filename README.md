@@ -10,13 +10,13 @@
 [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
 [![Dart](https://skillicons.dev/icons?i=dart&theme=light)](https://skillicons.dev) 
 
-#### Backend
+#### Framework
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
 [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
 [![Spring Boot](https://skillicons.dev/icons?i=springboot&theme=light)](https://skillicons.dev)
-[![JPA](https://skillicons.dev/icons?i=jpa&theme=light)](https://skillicons.dev)
-[![MyBatis](https://skillicons.dev/icons?i=mybatis&theme=light)](https://skillicons.dev)
+[![.Flutter](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet&theme=light)](https://skillicons.dev)
+[![.Flutter](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
 
 #### Database
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev) [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) [![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch&theme=light)](https://skillicons.dev) [![Redis](https://skillicons.dev/icons?i=redis&theme=light)](https://skillicons.dev)
