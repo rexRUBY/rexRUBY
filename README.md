@@ -16,7 +16,6 @@
 [![Spring Boot](https://skillicons.dev/icons?i=springboot&theme=light)](https://skillicons.dev)
 [![.Flutter](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
 [![.NET](https://skillicons.dev/icons?i=dotnet&theme=light)](https://skillicons.dev)
-[![.Flutter](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
 
 #### Database
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev) [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) [![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch&theme=light)](https://skillicons.dev) [![Redis](https://skillicons.dev/icons?i=redis&theme=light)](https://skillicons.dev)
