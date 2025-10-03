@@ -12,10 +12,10 @@ Recently, I've been diving deep into the **AI/LLM field**, focusing on implement
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | Java, **Spring Boot**, REST API |
-| **Mobile** | **Flutter**, Dart |
-| **Database** | PostgreSQL, MySQL, **Redis** |
-| **DevOps** | Docker, **AWS**, Jenkins, GitHub Actions |
+| **Backend** | Java, Spring, REST API |
+| **Mobile** | Flutter, Dart |
+| **Database** | PostgreSQL, MySQL, Redis |
+| **DevOps** | Docker, AWS, Jenkins, GitHub Actions |
 | **Security** | Information Security Background |
 
 ---
