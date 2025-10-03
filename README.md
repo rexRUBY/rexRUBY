@@ -1,33 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=톰캣🐈😺&fontSize=90)
+# 🌟 RUBY (Backend & Mobile Developer)
 
-### My Skills
+**Architecting Secure, Reliable, and Scalable Systems.**
 
-#### Languages
-[![C](https://skillicons.dev/icons?i=c&theme=light)](https://skillicons.dev) 
-[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) 
-[![Python](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev) 
-[![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://skillicons.dev) 
-[![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
-[![Dart](https://skillicons.dev/icons?i=dart&theme=light)](https://skillicons.dev) 
+I’m a developer in the **Fintech** space, specializing in **payment & settlement systems** with a strong background in **Information Security**. I mainly use **Spring Boot** for backend services and **Flutter** for cross-platform mobile development.
 
-#### Framework
-[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
-[![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
-[![Spring Boot](https://skillicons.dev/icons?i=springboot&theme=light)](https://skillicons.dev)
-[![.Flutter](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
-[![.NET](https://skillicons.dev/icons?i=dotnet&theme=light)](https://skillicons.dev)
+Recently, I've been diving deep into the **AI/LLM field**, focusing on implementing **LangChain** and **RAG pipelines** to enhance real-world applications.
 
-#### Database
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev) [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) [![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch&theme=light)](https://skillicons.dev) [![Redis](https://skillicons.dev/icons?i=redis&theme=light)](https://skillicons.dev)
+---
 
-#### DevOps & Cloud
-[![Docker](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev) [![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=light)](https://skillicons.dev) [![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light)](https://skillicons.dev) [![AWS](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev) [![GCP](https://skillicons.dev/icons?i=gcp&theme=light)](https://skillicons.dev)
+### 🛠 Tech Stack
 
-#### Version Control
-[![Git](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev) [![GitLab](https://skillicons.dev/icons?i=gitlab&theme=light)](https://skillicons.dev)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | Java, **Spring Boot**, REST API |
+| **Mobile** | **Flutter**, Dart |
+| **Database** | PostgreSQL, MySQL, **Redis** |
+| **DevOps** | Docker, **AWS**, Jenkins, GitHub Actions |
+| **Security** | Information Security Background |
 
-#### Design & Tools
-[![Figma](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
+---
 
-#### Game Development
-[![Unity](https://skillicons.dev/icons?i=unity&theme=light)](https://skillicons.dev)
+### 📌 Professional Focus & Expertise
+
+#### **1. Fintech Backend Development**
+- Developed and optimized settlement/transaction logic using Spring.
+- Experienced in handling large-scale financial data and ensuring **transactional reliability**.
+
+#### **2. Mobile App Development**
+- Built cross-platform mobile apps with Flutter (Personal Project: JobFinder).
+- Proficient in **Clean Architecture** and **BLoC** pattern implementation.
+
+#### **3. AI/LLM Research**
+- Specialized knowledge in building **LangChain & RAG Pipelines** (via FastCampus Inner Circle AI).
+- Goal: Integrating secure and scalable AI features into production services.
+
+---
+
+### 📚 Education & Certification
+- **B.S. in Information Security**
+- Certifications: Information Processing Engineer, **SQLD** (SQL Developer), Linux Master
+
+---
+
+### 🌱 About Me
+- Passionate about continuous learning and personal growth.
+- Balancing life with **fitness 🏋️** and **baking 🍞**.
+- Will code for waffle.
