@@ -31,7 +31,7 @@ Recently, I've been diving deep into the **AI/LLM field**, focusing on implement
 - Proficient in **Clean Architecture** and **BLoC** pattern implementation.
 
 #### **3. AI/LLM Research**
-- Specialized knowledge in building **LangChain & RAG Pipelines** (via FastCampus Inner Circle AI).
+- Specialized knowledge in building **LangChain & RAG Pipelines** (via Inner Circle AI 4th).
 - Goal: Integrating secure and scalable AI features into production services.
 
 ---
